@@ -1,0 +1,3 @@
+//Error 1.- El STD unit8 está mal posicionado.
+//Error 2.- El std cout del mensaje está mal puesto, ya que es un mensaje que debería cumplir una condicion...
+//Error 3.- La línea 18 está mal porque hay un ] antes del '\n'.
